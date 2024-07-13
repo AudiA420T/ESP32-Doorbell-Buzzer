@@ -1,9 +1,3 @@
-/*************************************************************
-
-  This is a simple demo of sending and receiving some data.
-  Be sure to check out other examples!
- *************************************************************/
-
 /* Fill-in information from Blynk Device Info here */
 #define BLYNK_TEMPLATE_ID "BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "BLYNK_TEMPLATE_NAME"
