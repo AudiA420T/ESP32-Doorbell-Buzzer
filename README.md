@@ -10,7 +10,7 @@ Main Components:
 3. Optocoupler
 4. Buck Converter Board
 
-![image](https://github.com/AudiA420T/ESP32-Doorbell-Buzzer/assets/6942261/01527bd1-533d-40e7-897f-f203b5eb4d14)
+![image](https://github.com/user-attachments/assets/3d79bffc-60ee-41e4-a18c-edaf8590f8ff)
 
 Custom enclosure for the ESP32 & Buck Converter
 
