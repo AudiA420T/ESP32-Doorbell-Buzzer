@@ -1,4 +1,4 @@
-The origin of making this was the fact that San Francisco has traditionally very old doorbell buzzer systems. If you're not home, often packages are left at the door to be stolen.
+The problem to solve was that San Francisco has traditionally very old doorbell buzzer systems and porch pirates looking for packages to steal. I needed a way to let me know someone was at the door, and let them in even if I wasn't home.
 
 Features:
 - Sending a push message when someone buzzes.
