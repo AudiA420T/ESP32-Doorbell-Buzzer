@@ -9,7 +9,7 @@ Main Components:
 2. Custom PCB
 3. Blynk Integration for Push Messages / App to trigger the relay
 
-![image](https://github.com/user-attachments/assets/0b9ee457-48e2-4ddd-9b71-e1ade0b59a1c)
+![image](https://github.com/user-attachments/assets/60e22c8a-bd46-43ee-820d-4f76c3db4855)
 
 ![image](https://github.com/user-attachments/assets/04587388-e9cd-473e-b699-7f0da59775b4)
 
