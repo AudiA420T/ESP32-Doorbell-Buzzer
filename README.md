@@ -7,3 +7,10 @@ Features:
 Main Components:
 1. ESP32 Module
 2. Custom PCB
+3. Blynk Integration for Push Messages / App to trigger the relay
+
+![image](https://github.com/user-attachments/assets/0b9ee457-48e2-4ddd-9b71-e1ade0b59a1c)
+
+![image](https://github.com/user-attachments/assets/04587388-e9cd-473e-b699-7f0da59775b4)
+
+![image](https://github.com/user-attachments/assets/cf17f2ba-4e5b-45bb-80f2-6a703f44449e)
