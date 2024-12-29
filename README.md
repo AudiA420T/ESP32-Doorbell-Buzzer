@@ -15,6 +15,4 @@ Main Components:
 
 ![image](https://github.com/user-attachments/assets/cf17f2ba-4e5b-45bb-80f2-6a703f44449e)
 
-![image](https://github.com/user-attachments/assets/dc70564c-bc6c-4799-823f-e74841bc9a0c)
-
 ![image](https://github.com/user-attachments/assets/3cfbb5ea-f309-4bd4-b870-5e8b6284455b)
