@@ -1,0 +1,29 @@
+Reference,Component Type,Description/Value,Link
+VAC1,AC Input,Input Power,N/A
+VAC2,AC Input,Input Buzzer,N/A
+U1,Buck Converter IC,LM2596S,https://www.digikey.com/en/products/detail/texas-instruments/LM2596S-5-0/3701226
+VR1,Linear Regulator,LM1117MP-3.3_NOPB,https://www.digikey.com/en/products/detail/texas-instruments/LM1117MP-3-3-NOPB/304882
+D1,LED,Status LED,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060VS75000/4489906
+D2,Bridge Rectifier,KBP208G,https://www.digikey.com/en/products/detail/diodes-incorporated/KBP210G/278625
+D3,Diode,CLD-Diode,https://www.digikey.com/en/products/detail/bourns-inc/P6SMB400A/5320311
+D4,Schottky Diode,PMEG4030ER_115,https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMEG4030ER-115/2228704
+D5,Schottky Diode,PMEG4030ER_115,https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMEG4030ER-115/2228704
+L2,Inductor,680µH,https://www.digikey.com/en/products/detail/eaton-electronics-division/DR125-680-R/667156
+C1,Capacitor,470µF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1HM471/245044
+C2,Supercapacitor,1F,https://www.digikey.com/en/products/detail/kyocera-avx/SCMR18F105PSBA0/8028708
+C3,Capacitor,1000µF,https://www.digikey.com/en/products/detail/nichicon/UVY1H102MHD/2428007
+C4,Capacitor,F931A106KAA (10µF),https://www.digikey.com/en/products/detail/kyocera-avx/F931A106KAA/4005123
+C5,Capacitor,F931A106KAA (10µF),https://www.digikey.com/en/products/detail/kyocera-avx/F931A106KAA/4005123
+R1,Resistor,ERJ-P06J101V (100 ohm),https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P06J101V/525196
+R2,Resistor,10 kOhm,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3EKF1002V/196066
+R4,Resistor,1 kOhm,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3EKF1001V/196032
+Q1,Transistor,2N2222A,https://www.digikey.com/en/products/detail/diotec-semiconductor/2N2222A/13164037
+K2,Relay,5V Relay,Chinese Songle Units
+J1,Connector,2-Pin Connector,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691137710002/6644051
+J2,Connector,2-Pin Connector,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691137710002/6644051
+J3,Connector,Female Header (16-pin),https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC161LFBN-RC/810154
+J4,Connector,Female Header (16-pin),https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC161LFBN-RC/810154
+H1,Mounting Hole,MountingHole,N/A
+H2,Mounting Hole,MountingHole,N/A
+H3,Mounting Hole,MountingHole,N/A
+H4,Mounting Hole,MountingHole,N/A
