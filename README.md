@@ -23,7 +23,8 @@ Main Components:
 ![image](https://github.com/user-attachments/assets/6f256b64-f1e1-4c13-b102-c8b284c9dc0b)
 
 Issues:
-- None known (not tested yet)
+- Footprint incorrect (found 01/01/24)
+- L2 is 68µH not 680µH
 
 Potential Improvements:
 - Adding another LED for relay activation
