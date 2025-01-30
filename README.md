@@ -14,7 +14,7 @@ Main Components:
 2. Custom PCB with Buck Converter & Relay
 4. Blynk Integration for Push Messages / App to trigger the relay
 
-![IMG_2528](https://github.com/user-attachments/assets/70c68e16-c3e6-4513-86ce-83aca9fca62b)
+![image](https://github.com/user-attachments/assets/2d752281-bab6-4a0b-bc4d-2e79107c1a4b)
 
 ![image](https://github.com/user-attachments/assets/60e22c8a-bd46-43ee-820d-4f76c3db4855)
 
