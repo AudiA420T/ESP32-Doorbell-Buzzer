@@ -24,12 +24,13 @@ Main Components:
 
 ![image](https://github.com/user-attachments/assets/6f256b64-f1e1-4c13-b102-c8b284c9dc0b)
 
-Issues:
+Known Issues:
 - C2 Footprint incorrect
 - C2 circuit not correct. Needs to connect back to 5v net
 - L2 is 68µH not 680µH. Need to correct labels
 - Add resistor to the base of the transistor
 - Fix nets and labels
+- Optocoupler leads are reversed
 
 Potential Improvements:
 - Adding another LED for relay activation
